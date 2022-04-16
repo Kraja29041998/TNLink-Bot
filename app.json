@@ -1,12 +1,12 @@
 {
-    "name": "GPlink_Bot",
+    "name": "TNlink_Bot",
     "description": "Make short link by using GPlink API key",
     "keywords": [
         "telegram",
-        "gplink"
+        "tnlink"
     ],
-    "website": "https://github.com/Mahesh0253/GPlink-bot",
-    "repository": "https://github.com/Mahesh0253/GPlink-bot",
+    "website": "https://github.com/Doctorstra/TNLink-Bot",
+    "repository": "https://github.com/Doctorstra/TNLink-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
@@ -21,7 +21,7 @@
             "value": ""
         },
         "API_KEY": {
-            "description": "Get API key from https://gplinks.in/member/tools/api",
+            "description": "Get API key from https://tnlinks.in/member/tools/api",
             "value": ""
         }
     },
